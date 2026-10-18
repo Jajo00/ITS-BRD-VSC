@@ -1,0 +1,9 @@
+{
+    "targetSet": {
+        "A1ASM": {
+            "activeTargetType": "ITSboard_Assembly"
+        }
+    },
+    "activeSolution": "../A1ASM.csolution.yml",
+    "activeTarget": "ITSboard_Assembly"
+}
