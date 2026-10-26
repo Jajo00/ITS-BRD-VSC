@@ -1,0 +1,9 @@
+{
+    "targetSet": {
+        "Programs/A2ASM/A2ASM": {
+            "activeTargetType": "ITSboard_Assembly"
+        }
+    },
+    "activeSolution": "../Programs/A2ASM/A2ASM.csolution.yml",
+    "activeTarget": "ITSboard_Assembly"
+}

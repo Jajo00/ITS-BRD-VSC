@@ -1,0 +1,9 @@
+{
+    "targetSet": {
+        "template": {
+            "activeTargetType": "ITSboard_Assembly"
+        }
+    },
+    "activeSolution": "../template.csolution.yml",
+    "activeTarget": "ITSboard_Assembly"
+}
